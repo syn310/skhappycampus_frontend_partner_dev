@@ -61,6 +61,6 @@
     "redux-actions": "^2.6.5",
     "sockjs-client": "^1.3.0",
     "stompjs": "^2.3.3",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   }
 }
